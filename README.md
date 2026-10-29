@@ -1,1 +1,1 @@
-# Global-Fuel-Prices
+This project analyzes global fuel prices and taxation trends from 2020 to 2026 across seven regions. Using Python and Tableau, it explores petrol, diesel, and LPG prices, tax policies, subsidies, and economic factors through interactive dashboards, visualizations, and data-driven insights.
